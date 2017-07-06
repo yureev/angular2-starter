@@ -488,3 +488,4 @@ ___
 
 # License
  [MIT](/LICENSE)
+# angular1-starter
